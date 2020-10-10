@@ -1,0 +1,7 @@
+<?PHP
+
+echo '1.PHPフレームワークのなかでもLaravelの特徴を調べてみてください。'."\n";
+
+echo 'Webアプリケーションフレームワークであること'."\n";
+echo 'Laravelの特徴はPHPの代表的なMVCフレームワークの一つであること'."\n";
+echo 'LaravelのシステムはModel(モデル)、View（ビュー）、Controller(コントローラー)という3つの機能で構成'."\n";
